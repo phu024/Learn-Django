@@ -46,3 +46,6 @@ Follow the instructions in the crash course video to set up your Django environm
 
 Starter files for the course are available from the video description: [https://drive.google.com/file/d/1ksZM...]([https://drive.google.com/file/d/1ksZM...](https://drive.google.com/file/d/1ksZM-f4jEZU1PZD5PqKucWT_bscVIcsJ/view))
 
+
+----
+
